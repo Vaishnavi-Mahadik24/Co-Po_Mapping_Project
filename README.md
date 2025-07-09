@@ -1,4 +1,4 @@
-# CO-PO Mapping Project (ASP.NET Web Forms)
+# CO-PO Mapping Project 
 
 This is a web-based application built using **ASP.NET Web Forms (C#)** to map **Course Outcomes (COs)** with **Program Outcomes (POs)** in academic settings. The system is designed to help automate the CO-PO matrix generation, analysis, and report generation process.
 

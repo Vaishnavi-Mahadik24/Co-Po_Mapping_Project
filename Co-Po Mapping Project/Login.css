@@ -1,0 +1,36 @@
+﻿body {
+    background-image: url('login.jpg');
+    background-size:cover;
+    
+}
+
+.login {
+    text-align: center;
+    margin-top: 100px;
+}
+
+#Button {
+    border: black 3px solid;
+    box-shadow:2px 2px 5px black;
+    border-radius:10px;
+    background-color:white;
+    color:black;
+    
+}
+
+
+.loginInput {
+    border-radius: 5px;
+    width: 200px;
+}
+
+#Button:hover{
+    background-color:black;
+    color:white;
+    
+}
+
+#Button{
+    width:70px;
+}
+

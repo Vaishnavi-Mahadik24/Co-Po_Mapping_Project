@@ -1,0 +1,29 @@
+﻿body {
+    background-image: url('login.jpg');
+    background-size: cover;
+}
+
+.Register {
+    text-align: center;
+/*    margin-top: 50px;*/
+}
+
+input {
+    border-radius: 5px;
+    width: 200px;
+}
+
+#btn_Submit {
+    border: black 3px solid;
+    box-shadow: 2px 2px 5px black;
+    border-radius: 10px;
+    background-color: white;
+    color: black;
+    width:100px
+}
+
+    #btn_Submit:hover {
+        background-color: black;
+        color: white;
+    }
+
